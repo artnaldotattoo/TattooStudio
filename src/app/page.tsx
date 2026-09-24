@@ -159,7 +159,7 @@ export default function Home() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 h-20 flex items-center justify-between gap-4">
             <div className="flex items-center gap-3 sm:gap-4 min-w-0">
               <div className="relative w-10 h-10 rounded-full overflow-hidden border border-oro-kintsugi/50 shrink-0">
-                <Image src="/logo.jpg" alt="Artnaldo Tattoo Logo" fill sizes="40px" className="object-cover" />
+                <Image src="/logo.jpg" alt="Artnaldo Tattoo Studio - Logo del header" fill sizes="40px" className="object-cover" />
               </div>
               <span className="font-display font-semibold text-lg sm:text-xl tracking-widest text-blanco-washi truncate">
                 Artnaldo Tattoo

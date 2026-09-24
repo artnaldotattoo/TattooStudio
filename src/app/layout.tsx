@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     template: TITLE_TEMPLATE,
   },
   description:
-    "Estudio de tatuajes en Bogotá especializado en Blackwork, Japonés, Realismo y Fine Line. Diseños a medida, cotización por WhatsApp.",
+    "Artnaldo Tattoo Studio en Bogotá: tatuajes blackwork, japonés, realismo y fine line. KasayaInk y Naldo TAttoo Studio. Tatuajes Bogota, tatuadores en Bogota. Diseños a medida, cotización por WhatsApp.",
   keywords: [
     "estudio de tatuajes Bogotá",
     "tatuajes blackwork Bogotá",
@@ -38,6 +38,12 @@ export const metadata: Metadata = {
     "tatuaje a medida",
     "tatuador Bogotá",
     "artnaldo tattoo",
+    "ArtnaldoTattoo",
+    "KasayaInk",
+    "Naldo TAttoo Studio",
+    "Artnaldo estudio tattoo",
+    "tatuajes bogota",
+    "tatuadores en bogota",
   ],
   authors: [{ name: "Artnaldo Tattoo Studio", url: siteUrl }],
   creator: "Artnaldo Tattoo Studio",
@@ -51,7 +57,7 @@ export const metadata: Metadata = {
     locale: "es_CO",
     title: TITLE_DEFAULT,
     description:
-      "Estudio de tatuajes en Bogotá: Blackwork, Japonés, Realismo y Fine Line. Diseños a medida, cotización por WhatsApp.",
+      "Artnaldo Tattoo Studio en Bogotá: Blackwork, Japonés, Realismo y Fine Line. KasayaInk, Naldo TAttoo Studio. Tatuajes Bogota, tatuadores en Bogota. Diseños a medida, cotización por WhatsApp.",
     url: siteUrl,
     siteName: SITE.shortName,
     images: [
@@ -59,14 +65,14 @@ export const metadata: Metadata = {
         url: SITE.logo,
         width: 1200,
         height: 630,
-        alt: "Artnaldo Tattoo Studio - Blackwork y Japonés en Bogotá",
+        alt: "Artnaldo Tattoo Studio - Blackwork y Japonés en Bogotá - Tatuajes Bogota",
         type: "image/jpeg",
       },
       {
         url: SITE.logo,
         width: 150,
         height: 150,
-        alt: "Logo Artnaldo Tattoo Studio",
+        alt: "Logo Artnaldo Tattoo Studio - Tatuador Bogotá",
         type: "image/jpeg",
       },
     ],
@@ -75,7 +81,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: TITLE_DEFAULT,
     description:
-      "Estudio de tatuajes en Bogotá: Blackwork, Japonés, Realismo y Fine Line.",
+      "Artnaldo Tattoo Studio en Bogotá: Blackwork, Japonés, Realismo y Fine Line. Tatuajes Bogota, tatuadores en Bogota.",
     images: [SITE.logo],
     creator: "@artnaldotattoo",
   },
